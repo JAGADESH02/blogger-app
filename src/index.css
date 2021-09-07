@@ -1,0 +1,15 @@
+html  {
+	font-family: Muli, Helvetica, Arial, sans-serif !important;
+	height: 100%;
+}
+*{
+font-family: Muli, Helvetica, Arial, sans-serif !important;
+}
+body {
+  position: relative;
+  min-height: 100vh;
+	font-family: Muli, Helvetica, Arial, sans-serif !important;
+	margin: 0;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
